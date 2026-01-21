@@ -65,15 +65,22 @@ Este repositorio apunta a convertirse en un **punto de referencia de QA en espa�
 
 ---
 
-## 📘 Fundamentos de QA
+## 📘 Stage 1:
 
-| Tema | Tipo |
+Entender los findamentos del QA:
+- ¿Que es el QA?
+- ¿Por que se implementa en los proyectos?
+- Ventajas de tener un QA en el equipo
+- La importancia de tener QA en los proyectos
+- Diferencia entre un QA y un Tester
+- Conceptos de caja blanca, negra y gris
+
+| Tema | Link |
 |----|----|
-| Verificación vs Validación | Artículo |
-| Error, Defecto y Falla | Guía |
-| Tipos de Pruebas | Artículo |
-| STLC | Guía |
-| Bug Life Cycle | Artículo |
+| Por que es fundamental el QA en un proyecto | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/por-que-es-fundamental-el-qa-en-un-proyecto/ "Foro Underc0de") |
+| Introducción al QA dictado por EGG | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/introduccion-a-qa-dictado-por-egg/ "Foro Underc0de") |
+| Tester vs QA | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/el-abismo-entre-tester-y-qa/ "Foro Underc0de") |
+
 
 ---
 
