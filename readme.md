@@ -141,6 +141,23 @@ Saber usar issue trackers
 | Jira desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=tSQ_jDIgb9U) |
 | Reporte de bugs desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=-Z8qCp-9aNg) |
 
+---
+
+## 📘 Stage 5:
+
+Aprender diferentes tecnicas de tests funcionales:
+
+- Pruebas exploratorias
+- Sanity testing
+- Regresiones
+- Smoke testing
+- Pruebas de integración
+- Pruebas unitarias (A nivel componente)
+
+| Tema | Link |
+|----|----|
+| Estrategias de prueba: Smoke - Sanity - Regression | [![youtube] Ver Video](https://www.youtube.com/watch?v=wmOFaW7GS4g "QARMY") |
+
 
 ---
 
