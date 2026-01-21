@@ -28,7 +28,7 @@ Este repositorio apunta a convertirse en un **punto de referencia de QA en espa�
 
 - [🎯 Cómo usar este repositorio](#-cómo-usar-este-repositorio)
 - [🧭 Roadmap de aprendizaje QA](#-roadmap-de-aprendizaje-qa)
-- [📘 Fundamentos de QA](#-fundamentos-de-qa)
+- [📘 Stages](#-stage-1)
 - [❓ Preguntas de entrevista](#-preguntas-de-entrevista)
 - [🛠️ Herramientas de Testing](#️-herramientas-de-testing)
 - [🤖 Automatización de Pruebas](#-automatización-de-pruebas)
