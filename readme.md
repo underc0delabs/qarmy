@@ -84,6 +84,66 @@ Entender los findamentos del QA:
 
 ---
 
+## 📘 Stage 2:
+
+Metodologías de trabajo:
+- Scrum
+- Kanban
+- Cascada
+- Modelo en V
+- XP
+
+| Tema | Link |
+|----|----|
+| Documentación sobre Metodologías | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/scrum-metodologia-agil/ "Foro Underc0de") |
+| Eventos en Scrum | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/eventos-en-scrum/ "Foro Underc0de") |
+| Metodología Cascada | [![youtube] Ver Video](https://www.youtube.com/watch?v=0nPXLWHeR3I) |
+| Kanban | [![youtube] Ver Video](https://www.youtube.com/watch?v=LfLLacFbfqs) |
+| Scrum Completo | [![youtube] Ver Video](https://www.youtube.com/watch?v=sHTUUQQLX64) |
+| Scrum Resumido | [![youtube] Ver Video](https://www.youtube.com/watch?v=fS_dUizpAQM) |
+
+---
+
+## 📘 Stage 3:
+
+Casos de Prueba
+- ¿Qué son los casos de prueba?
+- ¿Cómo se arman?
+- Prioridades de casos de prueba
+- Aprender a usar test management tools: XRAY, Zepyr, QMETRY, Excel, Test Link, etc
+
+| Tema | Link |
+|----|----|
+| Test Cases - Test Suite | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/test-case-test-suite-test-plan/ "Foro Underc0de") |
+| QMETRY desde cero | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/qmetry-desde-cero/ "Foro Underc0de") |
+| Plantilla de test cases | [🔗 Ver Recurso](https://docs.google.com/spreadsheets/d/1YdEE8waxsp8NS6HwLu_JSO5BoEftlD1KTVQpUk0gZ_A "QARMY") |
+| Creación de casos de prueba en excel | [![youtube] Ver Video](https://www.youtube.com/watch?v=AkaboE7_4WU) |
+| Creación de casos de prueba en QMETRY | [![youtube] Ver Video](https://www.youtube.com/watch?v=TZCRwh6v_ok) |
+| Creación de casos de prueba en XRAY | [![youtube] Ver Video](https://www.youtube.com/watch?v=wrrd9EI6x5U) |
+| Creación de casos de prueba en Test Link | [![youtube] Ver Video](https://www.youtube.com/watch?v=Hb-c_Yv9qCw) |
+
+
+---
+
+## 📘 Stage 4:
+
+Saber usar issue trackers
+
+- Reporte de bugs
+- Uso de Jira, Trello, Monday, Redmine, etc
+
+| Tema | Link |
+|----|----|
+| Plantilla de test cases | [🔗 Ver Recurso](https://docs.google.com/document/u/1/d/1plxwbstIwHdQSuxb2BZ3OsY9M4sBVvCkpckdNEu1Rk8/ "QARMY") |
+| Plantilla para reportar bugs en Excel | [🔗 Ver Recurso](https://docs.google.com/spreadsheets/d/18ZbJfr8EsS9GuMdDFelLSDqS9jml9EnuNhwwh_mrLfM/edit?gid=0#gid=0 "QARMY") |
+| ¿Qué es un Bug? | [![youtube] Ver Video](https://www.youtube.com/watch?v=ImKCRntCx5c) |
+| Severidad, Prioridad y reporte en Jira | [![youtube] Ver Video](https://www.youtube.com/watch?v=LsB9khxzX6o) |
+| Jira desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=tSQ_jDIgb9U) |
+| Reporte de bugs desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=-Z8qCp-9aNg) |
+
+
+---
+
 ## ❓ Preguntas de Entrevista
 
 - ¿Qué es QA y cuál es su rol?
@@ -263,3 +323,15 @@ La curación es realizada por el equipo de **QARMY**.
 ---
 
 ⭐ Si este repositorio te resulta útil, ¡dejá una estrella y compartilo!
+
+[twitter]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitter_icon-icons.com_66688.png?alt=media&token=f413e76a-08d4-4259-92e9-d1fa41d62ecd "Twitter"
+
+[youtube]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/1491580651-yumminkysocialmedia28_83061.png?alt=media&token=3cfbf587-9d88-4c55-ac42-3b0b32c6578f "Youtube"
+
+[twitch]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitch_icon_146123.png?alt=media&token=a1bd09c2-22ae-4b18-93de-55fe2aaab7f3 "Twitch"
+
+[linkedin]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/linkedin_icon-icons.com_65929.png?alt=media&token=5bdf302c-6710-4460-93b2-8221dec7e344 "Linkedin"
+
+[en]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/en-flag.png?alt=media&token=d2fb3718-7802-4b81-ac03-e94a8d9bed4e "English"
+
+[es]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/es-flag.png?alt=media&token=019f63c7-4c64-4f2a-8543-57c93275cd8f "Español"
