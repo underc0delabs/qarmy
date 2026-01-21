@@ -1,14 +1,12 @@
-# 🧪 Recursos para QA & Software Testing  
-### by **QARMY · Underc0de**
+# 🧪 Recursos para QAs - QARMY
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Software%20Testing-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/QA%20en%20Español-LATAM-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Comunidad-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Idioma-Español-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Contribuciones-Colaborativo-purple?style=for-the-badge">
 </p>
 
-Repositorio **oficial de QARMY** dedicado a la **curación profesional de recursos para QA y Software Testing** en español.  
+Repositorio **oficial de QARMY** dedicado a la **capacitación profesional de QAs** en español.  
 Este espacio reúne contenido propio y de la comunidad: testing manual, automatización de pruebas, IA aplicada a QA, performance, seguridad y desarrollo de carrera.
 
 ---
@@ -22,7 +20,7 @@ Centralizar en un solo lugar **recursos reales, útiles y actualizados** para:
 - 🔴 Seniors, Leads y QA Managers  
 - 📚 Docentes, mentores y creadores de contenido  
 
-Este repositorio apunta a convertirse en un **punto de referencia de QA en español** para LATAM y el mundo.
+Este repositorio apunta a convertirse en un **punto de referencia de QA en español**.
 
 ---
 
@@ -62,7 +60,7 @@ Este repositorio apunta a convertirse en un **punto de referencia de QA en espa�
 ## 🧭 Roadmap de aprendizaje QA
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400.png?text=QA+Roadmap" alt="QA Roadmap"/>
+  <img src="https://i.imgur.com/DAJ0hsw.png?text=QA+Roadmap" alt="QA Roadmap"/>
 </p>
 
 ---
