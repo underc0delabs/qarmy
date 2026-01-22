@@ -279,7 +279,9 @@ Algunas de estas herramientas son:
 - BitBucket
 - Saber conceptos de GIT (Importante)
 
- | Crear repositorios desde cero con GIT y GitHub | [![youtube] Ver Video](https://www.youtube.com/watch?v=P6fB62CW26Y "QARMY") | 
+| Tema | Link |
+|----|----|
+| Crear repositorios desde cero con GIT y GitHub | [![youtube] Ver Video](https://www.youtube.com/watch?v=P6fB62CW26Y "QARMY") | 
 
 ---
 
@@ -316,6 +318,8 @@ Tener en cuenta también, que hay frameworks y tecnologías que ya tienen todo p
 
 Estos frameworks funcionan con Selenium, PlayWright, etc.
 
+| Tema | Link |
+|----|----|
 | Automatización con Katalon | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/pruebas-automatizadas-con-katalon/ "Foro Underc0de") |
 | Automatización con Autoc0de | [🔗 Ver Artículo](https://underc0de.org/foro/testing-automatizado/automatizaciones-con-autoc0de-desde-cero/ "Foro Underc0de") |
 | Autoc0de 2.0 Documentación de métodos | [🔗 Ver Artículo](https://underc0de.org/foro/testing-automatizado/autoc0de-2-0-web-documentacion-de-metodos/ "Foro Underc0de") |
