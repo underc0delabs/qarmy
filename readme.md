@@ -256,6 +256,84 @@ Testing NO Funcional: Pruebas más técnicas
 
 ---
 
+## 📘 Stage 11:
+
+Monitoreo y revisión de Logs
+
+Con el fin de que un QA sepa la causa raiz de un problema, es recomendable que sepa revisar logs y monitorear. Algunas aplicaciones para esto son:
+
+- Data Dog
+- Grafana
+- Crashlytics (Firebase)
+- CloudWatch
+
+---
+
+## 📘 Stage 12:
+
+Uso de repositorio de códigos, con el fin de automatizar posteriormente y mantener el código centralizado en un solo lugar.
+Algunas de estas herramientas son:
+
+- GitHub (Github desktop)
+- GitLab
+- BitBucket
+- Saber conceptos de GIT (Importante)
+
+ | Crear repositorios desde cero con GIT y GitHub | [![youtube] Ver Video](https://www.youtube.com/watch?v=P6fB62CW26Y "QARMY") | 
+
+---
+
+## 📘 Stage 13:
+
+Fundamentos de programación: No es necesario ser un experto en programación para empezar a automatizar, pero si es necesario tener conceptos de programación para poder hacerlo. Algunos de los lenguajes más utilizados para automatizar son:
+
+- Javascript
+- Python
+- Java
+- C#
+
+---
+
+## 📘 Stage 14:
+
+Pruebas automatizadas: Estas pruebas se dividen en:
+
+- Automatización Web
+- Automatización Mobile
+- Automatización de APIs
+- Automatización de Aplicaciones Desktop
+
+Tener en cuenta también, que hay frameworks y tecnologías que ya tienen todo pre-armado para no tener que hacer todo de cero. Alguno de ellos son:
+
+- Autoc0de
+- Playc0de
+- Serenity
+- Cypress
+- Jasmine
+- Playwright
+- Robot
+- Jest
+
+Estos frameworks funcionan con Selenium, PlayWright, etc.
+
+| Automatización con Katalon | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/pruebas-automatizadas-con-katalon/ "Foro Underc0de") |
+| Automatización con Autoc0de | [🔗 Ver Artículo](https://underc0de.org/foro/testing-automatizado/automatizaciones-con-autoc0de-desde-cero/ "Foro Underc0de") |
+| Autoc0de 2.0 Documentación de métodos | [🔗 Ver Artículo](https://underc0de.org/foro/testing-automatizado/autoc0de-2-0-web-documentacion-de-metodos/ "Foro Underc0de") |
+| Repositorio Autoc0de Web | [🔗 Ver Repositorio](https://github.com/underc0delabs/Autoc0de-WEB "Foro Underc0de") |
+| Repositorio Autoc0de Mobile | [🔗 Ver Repositorio](https://github.com/underc0delabs/Autoc0de-Mobile "Foro Underc0de") |
+| Repositorio Autoc0de APIs | [🔗 Ver Repositorio](https://github.com/underc0delabs/Autoc0de-API "Foro Underc0de") |
+| Playc0de desde cero | [🔗 Ver Artículo](https://underc0de.org/foro/playc0de/playc0de-ejecutando-pruebas-con-playwright-desde-0/ "Foro Underc0de") |
+| Repositorio Playc0de | [🔗 Ver Repositorio](https://github.com/underc0delabs/Playc0de "Foro Underc0de") |
+| Taller de Playwright desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=lgVInoVfcJ4 "QARMY") |
+| Cypress desde cero (Parte 1) | [![youtube] Ver Video](https://www.youtube.com/watch?v=GINC8zpjMZ8 "QARMY") |
+| Cypress desde cero (Parte 2) | [![youtube] Ver Video](https://www.youtube.com/watch?v=2goz7erK_gw "QARMY") |
+| k0lmena - Automatización de forma fácil | [![youtube] Ver Video](https://www.youtube.com/watch?v=n7plezXinZ8 "QARMY") |
+| Automatizaciones Web, APIs y Performance | [![youtube] Ver Video](https://www.youtube.com/watch?v=13vDBBiQ17Q "QARMY") |
+| Autocuración de Locators con Playwright (k0lmena) | [![youtube] Ver Video](https://www.youtube.com/watch?v=Dqxu-fEALOA "QARMY") |
+| Autocuraciones móviles con Appium | [![youtube] Ver Video](https://www.youtube.com/watch?v=MlCcr2ur2I4 "QARMY") |
+
+---
+
 ## ❓ Preguntas de Entrevista
 
 - ¿Qué es QA y cuál es su rol?
