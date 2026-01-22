@@ -235,6 +235,27 @@ Testing Mobile:
 
 ---
 
+## 📘 Stage 10:
+
+Testing NO Funcional: Pruebas más técnicas
+
+- Pruebas de Stress
+- Pruebas de Performance
+- Pruebas de Volumen
+- Pruebas de Seguridad
+- Pruebas de Accesibilidad
+- Pixel Perfect
+
+| Tema | Link |
+|----|----|
+| Pruebas de Stress con JMETER | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/pruebas-de-stress-con-jmeter/ "Foro Underc0de") |
+| Stress de APIs con JMETER | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/estres-de-apis-con-jmeter/ "Foro Underc0de") |
+| Ejecución de pruebas de JMETER desde la consola | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/ejecutando-jmeter-desde-la-consola/ "Foro Underc0de") |
+| Pruebas de Stress y Performance con Jmeter | [![youtube] Ver Video](https://www.youtube.com/watch?v=GkhzinKZaUg "QARMY") |
+| Pruebas de Stress y Performance a APIs con Jmeter | [![youtube] Ver Video](https://www.youtube.com/watch?v=4OccbnxtNWY "QARMY") |
+
+---
+
 ## ❓ Preguntas de Entrevista
 
 - ¿Qué es QA y cuál es su rol?
