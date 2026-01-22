@@ -9,6 +9,8 @@
 Repositorio **oficial de QARMY** dedicado a la **capacitación profesional de QAs** en español.  
 Este espacio reúne contenido propio y de la comunidad: testing manual, automatización de pruebas, IA aplicada a QA, performance, seguridad y desarrollo de carrera.
 
+⭐ Si este repositorio te resulta útil, ¡dejá una estrella y compartilo!
+
 ---
 
 ## 📌 Objetivo del repositorio
