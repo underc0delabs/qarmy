@@ -334,6 +334,42 @@ Estos frameworks funcionan con Selenium, PlayWright, etc.
 
 ---
 
+## 📘 Stage 15:
+
+Integraciones Continuas: Una vez que tenemos nuestra automatización, es muy recomendable colocarlo en las integraciones continuas para que se corran solas después de cada deploy. Alguna de las tecnologías más utilizadas son:
+
+- Jenkins
+- Pipelines
+- Travis
+- Azure DevOps
+
+---
+
+## 📘 Stage 16:
+
+Lider de procesos:
+
+Una vez que un QA ya adquirió mucha experiencia, puede ser lider de procesos. Es aquel que entiende del negocio, sobre como implementar QA. Tiene buena comunicación con el cliente, sabe manejar equipos de QA, etc.
+En muchas ocasiones, este lider de proceso no tiene todos los conocimientos técnicos mencionados en los demás Stages. Pero si tiene buenas habilidades blandas de comunicación.
+Para llegar a este puesto, por lo general es ofrecido por la empresa, o se puede postular en alguna posición abierta de QA Lead de alguna empresa.
+
+---
+
+## 📘 Stage 17:
+
+Lider Técnico de QA:
+
+Es aquel que ha adquirido a lo largo de los años muchos conocimientos técnicos (Todo lo mencionado anteriormente en este roadmap). Sabe implementar pruebas, sabe que tipo de pruebas hacer, donde hacerlas, etc.
+También sabe liderar equipos y enseñar habilidades técnicas a otros miembros del equipo.
+
+---
+
+## 📘 Stage 18:
+
+Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas muy grandes en donde hay varios equipos de QA.
+
+---
+
 ## ❓ Preguntas de Entrevista
 
 - ¿Qué es QA y cuál es su rol?
