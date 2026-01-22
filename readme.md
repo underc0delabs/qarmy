@@ -661,6 +661,8 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 |-------------|------|-----|
 | Material de estudio ISTQB en español | Documentación y Simuladores | https://qarmy.ar/simuladores-istqb-gratuitos |
 | HTTP Status Code | Documentación en español | https://qarmy.ar/http-status-code/ |
+| Webs para practicar testing | Website | https://qarmy.ar/webs-practicas-testing/ |
+| Webs para trabajar como Freelancer | Website | https://qarmy.ar/trabajo-freelance/ |
 
 ---
 
