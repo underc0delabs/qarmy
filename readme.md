@@ -158,6 +158,20 @@ Aprender diferentes tecnicas de tests funcionales:
 |----|----|
 | Estrategias de prueba: Smoke - Sanity - Regression | [![youtube] Ver Video](https://www.youtube.com/watch?v=wmOFaW7GS4g "QARMY") |
 
+---
+
+## 📘 Stage 6:
+
+Pruebas en base de datos:
+
+- SQL
+- NoSQL
+- Aprender a usar clientes de bases de datos
+- Consultas (SELECT, GROUP BY, ORDER BY, INER JOIN, etc)
+
+| Tema | Link |
+|----|----|
+| SQL desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=eDpDiLNHwAs "QARMY") |
 
 ---
 
