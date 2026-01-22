@@ -653,7 +653,31 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 ---
 
-## 📰 Blogs y Recursos de QA
+## 📌 Links y Videos de Interés
+
+> Material y artículos útiles para aprender QA, Testing y Automatización.
+
+| Descripción | Tipo | URL |
+|-------------|------|-----|
+| Material de estudio ISTQB en español | Documentación y Simuladores | https://qarmy.ar/simuladores-istqb-gratuitos |
+| HTTP Status Code | Documentación en español | https://qarmy.ar/http-status-code/ |
+
+---
+
+## 🧲 Recursos para QAs
+
+> Plantillas de test cases, reporte de bugs, test plans, etc
+
+| Descripción | Tipo | URL |
+|-------------|------|-----|
+| Plantilla para reporte de bugs | Plantilla | https://docs.google.com/document/d/1plxwbstIwHdQSuxb2BZ3OsY9M4sBVvCkpckdNEu1Rk8/edit?tab=t.0 |
+| Plantilla para creación de casos de pruebas en Excel | Plantilla | https://docs.google.com/spreadsheets/d/1YdEE8waxsp8NS6HwLu_JSO5BoEftlD1KTVQpUk0gZ_A/edit?gid=0#gid=0 |
+| Modelo de plan de pruebas | Plantilla | https://docs.google.com/document/d/1Vil5hgx0xtN9X1zIjvuKFg2kWIFq3DZj/edit |
+| Reporte de Bugs en Excel | Plantilla | https://docs.google.com/spreadsheets/d/18ZbJfr8EsS9GuMdDFelLSDqS9jml9EnuNhwwh_mrLfM/edit?gid=0#gid=0 |
+
+---
+
+## 📰 Blogs y Páginas de QA
 
 | Nombre | Idioma |
 |------|--------|
@@ -717,7 +741,6 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 | [Software Testing Material](https://www.softwaretestingmaterial.com/ "Software Testing Material") | ![en] |
 | [Continuous Testing](https://continuoustesting.dev/ "Continuous Testing") | ![en] |
 | [Test Automation University](https://testautomationu.applitools.com/ "Test Automation University") | ![en] |
-
 
 ---
 
