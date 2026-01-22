@@ -392,57 +392,268 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 ## 🛠️ Herramientas de Testing
 
-### 🔍 Testing Manual
-- Jira
-- TestRail
-- Zephyr
-- Xray
+> Selección de herramientas útiles para QA (manual y técnico). Todas las herramientas tienen link a su web oficial.
 
-### 🧪 API Testing
-- Postman
-- Insomnia
-- Newman
+### 🔍 Testing Manual / Gestión de Pruebas
 
-### 🤖 Automatización de Pruebas
+| Herramienta | Para qué sirve |
+|---|---|
+| [Jira](https://www.atlassian.com/software/jira) | Gestión de issues, bugs, tareas y tableros ágiles |
+| [Azure DevOps](https://azure.microsoft.com/products/devops/) | Boards + repos + pipelines (muy usado en entornos Microsoft) |
+| [YouTrack](https://www.jetbrains.com/youtrack/) | Gestión de issues y proyectos (JetBrains) |
+| [Linear](https://linear.app/) | Gestión de issues moderna (equipos producto/dev) |
+| [Trello](https://trello.com/) | Tableros kanban simples para seguimiento manual |
+| [TestRail](https://www.testrail.com/) | Gestión de casos de prueba y ejecuciones |
+| [Zephyr](https://smartbear.com/test-management/zephyr/) | Test management integrado con Jira |
+| [Xray](https://www.getxray.app/) | Test management para Jira (manual + automatizado) |
+| [qTest](https://www.tricentis.com/products/qtest) | Gestión de pruebas y trazabilidad (Tricentis) |
+| [PractiTest](https://www.practitest.com/) | Test management con foco en reporting |
+| [TestLink](https://testlink.org/) | Test management open-source |
+| [Bugzilla](https://www.bugzilla.org/) | Bug tracking clásico (open-source) |
+| [MantisBT](https://www.mantisbt.org/) | Bug tracking simple (open-source) |
+
+---
+
+### 🧪 API Testing (REST / SOAP / Collections)
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [Postman](https://www.postman.com/) | Testing manual/automatizable de APIs, colecciones, entornos |
+| [Insomnia](https://insomnia.rest/) | Cliente API ligero, ideal para REST/GraphQL |
+| [Newman](https://www.npmjs.com/package/newman) | CLI para ejecutar colecciones Postman en CI/CD |
+| [Hoppscotch](https://hoppscotch.io/) | Cliente API web (rápido para pruebas puntuales) |
+| [SoapUI](https://www.soapui.org/) | Testing de APIs SOAP y REST |
+| [Swagger / OpenAPI](https://www.openapis.org/) | Estándar de documentación y contrato de APIs |
+| [cURL](https://curl.se/) | CLI para requests HTTP (debug y scripting) |
+
+---
+
+### 🧩 Mocking / Stubs (APIs y dependencias)
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [WireMock](https://wiremock.org/) | Mock server para simular APIs (stubs, proxies, record/replay) |
+| [Mockoon](https://mockoon.com/) | Mock de APIs con UI simple (rápido para equipos QA) |
+| [JSON Server](https://github.com/typicode/json-server) | Fake REST API desde un JSON (ideal prototipos) |
+| [mountebank](https://www.mbtest.org/) | Service virtualization (imposters HTTP/TCP) |
+
+---
+
+### ✅ Contract Testing (Consumer-Driven Contracts)
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [Pact](https://pact.io/) | Contract testing entre consumidores y proveedores |
+| [SwaggerHub](https://swagger.io/tools/swaggerhub/) | Diseño/gestión colaborativa de OpenAPI (contratos) |
+
+---
+
+### 📊 Reporting / Evidencia / Documentación
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [Allure Report](https://allurereport.org/) | Reportes de ejecución (muy usado en automation) |
+| [ReportPortal](https://reportportal.io/) | Observabilidad de tests, análisis de fallos, dashboards |
+| [Confluence](https://www.atlassian.com/software/confluence) | Documentación y base de conocimiento |
+| [Notion](https://www.notion.so/) | Documentación + wikis + gestión simple |
+| [Google Docs](https://www.google.com/docs/about/) | Documentación colaborativa (estándar) |
+| [Miro](https://miro.com/) | Mapas, flujos, mindmaps, workshops (ideal para QA discovery) |
+
+---
+
+### ♿ Accesibilidad (A11y)
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [axe DevTools](https://www.deque.com/axe/devtools/) | Auditoría de accesibilidad (extensión y tooling) |
+| [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) | Auditorías (perf, a11y, best practices) |
+| [WAVE](https://wave.webaim.org/) | Evaluación rápida de accesibilidad (web) |
+
+---
+
+### 📱 Testing Mobile (apoyo y ejecución)
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [Android Studio](https://developer.android.com/studio) | Debug, logs, emuladores, profiling (Android) |
+| [Xcode](https://developer.apple.com/xcode/) | Debug, simuladores, tooling (iOS) |
+| [Charles Proxy](https://www.charlesproxy.com/) | Proxy HTTP(S) para inspección de tráfico (mobile/web) |
+| [Proxyman](https://proxyman.io/) | Proxy HTTP(S) (muy usado en macOS) |
+| [BrowserStack](https://www.browserstack.com/) | Dispositivos reales y navegadores en la nube |
+| [Sauce Labs](https://saucelabs.com/) | Testing cross-browser/device cloud |
+
+---
+
+### ⚡ Performance / Load Testing
+
+| Herramienta | Para qué sirve |
+|---|---|
+| [Apache JMeter](https://jmeter.apache.org/) | Load/performance testing (clásico) |
+| [k6](https://k6.io/) | Load testing moderno con scripts |
+| [Gatling](https://gatling.io/) | Performance testing (orientado a dev/CI) |
+| [Locust](https://locust.io/) | Load testing distribuido (Python) |
+
+---
+
+
+---
+
+## 🤖 Frameworks y Herramientas de Automatización (Web / API / Mobile / Performance)
+
+### 🌐 Web UI Testing
 
 | Herramienta | Lenguaje | Tipo |
 |-----------|---------|------|
-| Selenium | Java / Python / C# | Web |
-| Playwright | JavaScript / TypeScript | Web |
-| Cypress | JavaScript / TypeScript | Web |
-| **k0lmena** | TypeScript (Playwright + Cucumber) | Web / API / Mobile / Performance |
-| Appium | Java / Python / JavaScript | Mobile |
-| WebdriverIO | JavaScript / TypeScript | Web |
-| TestCafe | JavaScript / TypeScript | Web |
-| Puppeteer | JavaScript | Web |
-| Robot Framework | Python | Web / API |
-| Karate | Java | API |
-| Rest Assured | Java | API |
-| Postman + Newman | JavaScript | API |
-| SoapUI | Groovy / Java | API |
-| JMeter | Java | Performance |
-| k6 | JavaScript | Performance |
-| Gatling | Scala | Performance |
+| [Selenium](https://www.selenium.dev/) | Java / Python / C# | Web |
+| [Selenide](https://selenide.org/) | Java | Web |
+| [Playwright](https://playwright.dev/) | JavaScript / TypeScript / Java / Python / .NET | Web |
+| [Cypress](https://www.cypress.io/) | JavaScript / TypeScript | Web |
+| [k0lmena](https://github.com/underc0delabs/k0lmena) | TypeScript (Playwright + Cucumber) | Web |
+| [WebdriverIO](https://webdriver.io/) | JavaScript / TypeScript | Web |
+| [TestCafe](https://testcafe.io/) | JavaScript / TypeScript | Web |
+| [Puppeteer](https://pptr.dev/) | JavaScript / TypeScript | Web |
+| [Nightwatch](https://nightwatchjs.org/) | JavaScript | Web |
+| [Robot Framework](https://robotframework.org/) | Python | Web / API |
+| [Serenity BDD](https://serenity-bdd.github.io/) | Java | Web / API |
+| [Gauge](https://gauge.org/) | Multi | Web / API |
+| [Cucumber](https://cucumber.io/) | Multi | BDD (Web/API) |
+| [SpecFlow](https://specflow.org/) | .NET (C#) | BDD (Web/API) |
+| [Capybara](https://teamcapybara.github.io/capybara/) | Ruby | Web |
+| [Watir](https://watir.com/) | Ruby | Web |
 
 ---
 
-## 🧠 IA aplicada a QA
+### 🔌 API Testing (REST / SOAP / Contract / Schema)
 
-- Generación automática de casos de prueba
-- Análisis inteligente de logs
-- Test Data Generation
-- Detección de flakiness
-- IA + Shift Left
+| Herramienta | Lenguaje | Tipo |
+|-----------|---------|------|
+| [k0lmena](https://github.com/underc0delabs/k0lmena) | TypeScript | API |
+| [Postman](https://www.postman.com/) | GUI | API |
+| [Newman](https://www.npmjs.com/package/newman) | JavaScript | API (CLI) |
+| [Rest Assured](https://rest-assured.io/) | Java | API |
+| [Karate](https://karatelabs.io/) | Java | API |
+| [SoapUI](https://www.soapui.org/) | Groovy / Java | API (SOAP/REST) |
+| [Insomnia](https://insomnia.rest/) | GUI | API |
+| [Hoppscotch](https://hoppscotch.io/) | Web | API |
+| [Pact](https://pact.io/) | Multi | Contract Testing |
+| [Schemathesis](https://schemathesis.readthedocs.io/) | Python | Schema-based API Testing |
+| [WireMock](https://wiremock.org/) | Java | Mocking / Stubs |
+| [Mockoon](https://mockoon.com/) | GUI | Mocking / Stubs |
+| [Swagger / OpenAPI](https://www.openapis.org/) | Especificación | API Docs/Schema |
 
 ---
 
-## 🎓 Cursos y Certificaciones
+### 📱 Mobile Testing
 
-| Certificación | Nivel |
-|--------------|------|
-| ISTQB CTFL | Inicial |
-| ISTQB Agile Tester | Intermedio |
-| Automation Paths | Avanzado |
+| Herramienta | Lenguaje | Tipo |
+|-----------|---------|------|
+| [k0lmena](https://github.com/underc0delabs/k0lmena) | TypeScript | Mobile |
+| [Appium](https://appium.io/) | Java / Python / JavaScript / C# | Mobile |
+| [Espresso](https://developer.android.com/training/testing/espresso) | Kotlin / Java | Android |
+| [XCUITest](https://developer.apple.com/documentation/xctest) | Swift / Objective-C | iOS |
+| [Detox](https://wix.github.io/Detox/) | JavaScript / TypeScript | Mobile (React Native) |
+| [Maestro](https://maestro.mobile.dev/) | YAML | Mobile (E2E) |
+| [Flutter integration_test](https://docs.flutter.dev/testing/integration-tests) | Dart | Mobile (Flutter) |
+
+---
+
+### ⚡ Performance / Load Testing
+
+| Herramienta | Lenguaje | Tipo |
+|-----------|---------|------|
+| [k0lmena](https://github.com/underc0delabs/k0lmena) | TypeScript | Performance |
+| [JMeter](https://jmeter.apache.org/) | Java | Performance |
+| [k6](https://k6.io/) | JavaScript | Performance |
+| [Gatling](https://gatling.io/) | Scala | Performance |
+| [Locust](https://locust.io/) | Python | Performance |
+| [Artillery](https://www.artillery.io/) | JavaScript | Performance |
+| [Vegeta](https://github.com/tsenart/vegeta) | Go | HTTP Load Testing |
+| [wrk](https://github.com/wg/wrk) | C | HTTP Benchmark |
+
+---
+
+## 🎓 Cursos y Certificaciones (QA)
+
+> Sugerencia: usá esta sección como “roadmap”. Incluye links oficiales para **temario** y **dónde rendir**.
+
+### 🧭 Dónde rendir (exámenes) y dónde capacitarte
+
+| Recurso | Link |
+|---|---|
+| Directorio oficial de **Exam Providers** (rendir examen ISTQB) | https://istqb.org/exam-providers/ |
+| Directorio oficial de **Training Providers** (cursos acreditados ISTQB) | https://istqb.org/training-providers/ |
+| Exam Provider global muy usado (ISTQB en inglés) | https://astqb.org/registration/find-an-exam-provider-istqb-certification/ |
+| **QARMY (Cursos de QA)** | https://qarmy.ar/ |
+
+---
+
+### 🏁 Certificaciones Core (imprescindibles)
+
+| Certificación | Nivel | Enfoque | Info oficial / Dónde rendir |
+|---|---|---|---|
+| ISTQB CTFL (Foundation) | Inicial | Fundamentos de testing | https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/ |
+| ISTQB CTFL-AT (Agile Tester) | Intermedio | QA en equipos ágiles | https://istqb.org/certifications/certified-tester-foundation-level-agile-tester-ctfl-at/ |
+| QARMY (Cursos / formación QA) | Inicial → Intermedio | Formación práctica + comunidad | https://qarmy.ar/ |
+
+---
+
+### 🧠 ISTQB Advanced (para crecer en rol y seniority)
+
+| Certificación | Nivel | Enfoque | Info oficial |
+|---|---|---|---|
+| ISTQB CTAL-TM (Test Management) | Avanzado | Gestión y estrategia de testing | https://istqb.org/certifications/certified-tester-advanced-level-test-management-ctal-tm-v3-0/ |
+| ISTQB CTAL-TA (Test Analyst) | Avanzado | Técnicas y análisis funcional | https://istqb.org/certifications/certified-tester-advanced-level-test-analyst/ |
+| ISTQB CTAL-TTA (Technical Test Analyst) | Avanzado | Testing técnico + no funcional | https://istqb.org/certifications/certified-tester-advanced-level-technical-test-analyst-ctal-tta/ |
+| ISTQB CTAL-TAE (Test Automation Engineering) | Avanzado | Automatización a nivel ingeniería | https://istqb.org/certifications/certified-tester-advanced-level-test-automation-engineering-ctal-tae-v2-0/ |
+| ISTQB CTAL-ATT (Agile Technical Tester) | Avanzado | Testing técnico en Agile/DevOps | https://istqb.org/certifications/certified-tester-advanced-level-agile-technical-tester-ctal-att/ |
+
+---
+
+### 🧩 Especializaciones ISTQB 
+
+| Certificación | Nivel | Enfoque | Info oficial |
+|---|---|---|---|
+| ISTQB CT-PT (Performance Testing) | Avanzado | Performance & load testing | https://istqb.org/certifications/certified-tester-performance-testing-ct-pt/ |
+| ISTQB CT-SEC (Security Tester) | Avanzado | Security testing + riesgos | https://istqb.org/certifications/certified-tester-security-tester-ct-sec/ |
+| ISTQB CT-MAT (Mobile App Testing) | Avanzado | Testing mobile | https://istqb.org/certifications/certified-tester-mobile-application-testing-ct-mat/ |
+| ISTQB CT-AI (AI Testing) | Avanzado | Testing de sistemas con IA | https://istqb.org/certifications/certified-tester-ai-testing-ct-ai/ |
+| ISTQB CT-ATLaS (Agile Test Leadership at Scale) | Avanzado | Quality/testing a escala | https://istqb.org/certifications/certified-tester-agile-test-leadership-at-scale-ct-atlas/ |
+| ISTQB CT-STE (Security Test Engineer) | Avanzado | Ingeniería de seguridad aplicada | https://istqb.org/certifications/certified-tester-security-test-engineer/ |
+
+---
+
+### 🔁 Agile / Testing moderno (fuera de ISTQB)
+
+| Certificación | Nivel | Enfoque | Web oficial |
+|---|---|---|---|
+| ICAgile ICP-TST (Agile Testing) | Intermedio | Agile testing práctico | https://www.icagile.com/certification/agile-testing |
+
+---
+
+### 🏭 Proceso y madurez de testing (para líderes, QA Managers, consultoría)
+
+| Certificación | Nivel | Enfoque | Web oficial |
+|---|---|---|---|
+| TMMi Professional | Intermedio | Madurez y mejora de procesos de testing | https://isqi.org/TMMi-Test-Maturity-Model-Integration-Professional-TMMi-P/TMMi-P.82 |
+| TMMi (Fundación / certificaciones org.) | Avanzado | Certificación por niveles (orgs) | https://www.tmmi.org/accredited-certifications/ |
+
+---
+
+### 🧾 Calidad de Software (credenciales “clásicas” reconocidas)
+
+| Certificación | Nivel | Enfoque | Web oficial |
+|---|---|---|---|
+| ASQ CSQE (Certified Software Quality Engineer) | Avanzado | Calidad de software, V&V, procesos | https://www.asq.org/cert/software-quality-engineer |
+| QAI CSQA (Certified Software Quality Analyst) | Intermedio | Fundamentos y prácticas de QA | https://qaiusa.com/software-certifications/software-quality-certifications/ |
+
+---
+
+### 🛡️ Seguridad aplicada a QA (ideal para AppSec / Security Testing)
+
+| Certificación | Nivel | Enfoque | Web oficial |
+|---|---|---|---|
+| Burp Suite Certified Practitioner (BSCP) | Avanzado | Web security testing (práctico) | https://portswigger.net/web-security/certification |
+
 
 ---
 
