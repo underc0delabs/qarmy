@@ -1,4 +1,4 @@
-# 🧪 Recursos para QAs - QARMY / Underc0de 🐙 (2026)
+# 🧪 Recursos y Roadmaps para QAs - QARMY / Underc0de (2026)
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Software%20Testing-blue?style=for-the-badge">
