@@ -376,12 +376,17 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 ## ❓ Preguntas de Entrevista
 
-- ¿Qué es QA y cuál es su rol?
-- ¿Qué es el STLC?
-- Tipos de pruebas funcionales y no funcionales
-- Falsos positivos y falsos negativos
-- Experiencia con automatización
-- Nivel de inglés
+| Tema | Link |
+|----|----|
+| Preguntas básicas para una entrevista de QA | [🔗 Ver Artículo](https://underc0de.org/foro/qa-testing/preguntas-basicas-para-una-entrevista-qa/ "Foro Underc0de") |
+| Preguntas de entrevista Jr | [🔗 Ver Artículo](https://underc0de.org/foro/qa-testing/mi-primera-entrevista-laboral-!/ "Foro Underc0de") |
+| ¿Cómo conseguir trabajo como Desarrollador o QA? (Parte 1) | [![youtube] Ver Video](https://www.youtube.com/watch?v=N8BzZaoFYws) |
+| ¿Cómo conseguir trabajo como Desarrollador o QA? (Parte 2) | [![youtube] Ver Video](https://www.youtube.com/watch?v=OeO5XafrX_Q) |
+| Preguntas frecuentes en entrevistas con RRHH | [![youtube] Ver Video](https://www.youtube.com/watch?v=WL1Gu6a4kV4) |
+| Preguntas frecuentes en entrevistas de QA (Técnica) | [![youtube] Ver Video](https://www.youtube.com/watch?v=ucIRhXIYdNc) |
+| Entrevistas con Inteligencia Artificial | [![youtube] Ver Video](https://www.youtube.com/watch?v=Ci4Y9M-X-jo) |
+| CVs en formato ATS - La nueva forma de conseguir trabajo | [![youtube] Ver Video](https://www.youtube.com/watch?v=YB1EpyFBF5I) |
+
 
 ---
 
