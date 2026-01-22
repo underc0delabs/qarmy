@@ -1,4 +1,4 @@
-# 🧪 Recursos para QAs - QARMY
+# 🧪 Recursos para QAs - QARMY (2026)
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Software%20Testing-blue?style=for-the-badge">
@@ -891,6 +891,43 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 > ⚠️ Nota: todos estos recursos son **demos públicas activas**. Aun así, su estado puede variar por mantenimiento del proveedor.
 
+---
+
+## 💼 Webs para conseguir trabajo
+
+> Portales útiles para buscar empleo (general, remoto, freelance y tech), con enlaces directos a cada sitio.
+
+| Sitio | Descripción | URL |
+|------|-------------|-----|
+| **Utest** | Plataforma enfocada en pruebas de software donde testers pueden encontrar oportunidades de testing y crowdsourced testing. | https://www.utest.com |
+| **LinkedIn Jobs** | Amplia red profesional con ofertas de empleo, recomendaciones personalizadas y filtros por ubicación y tipo de trabajo. | https://www.linkedin.com/jobs |
+| **Hireline** | Portal de empleo moderno con enfoque en tecnología y oportunidades diversas. | https://hireline.io |
+| **Chumijobs** | Bolsa de trabajo con ofertas variadas, incluyendo posiciones remotas y TI. | https://www.chumijobs.com |
+| **Indeed** | Uno de los buscadores de empleo más grandes del mundo, con ofertas globales y filtros fuertes. | https://www.indeed.com |
+| **ZipRecruiter** | Buscador de empleo con algoritmo de match y notificaciones de ofertas. | https://www.ziprecruiter.com |
+| **Dice** | Portal especializado en empleos de tecnología, desarrollo y TI. | https://www.dice.com |
+| **Get on Board** | Plataforma popular en LATAM para empleos en tecnología, startups y roles digitales. | https://www.getonbrd.com/ | :contentReference[oaicite:1]{index=1}
+| **SimplyHired** | Aggregator de empleo con ofertas de varios sectores y ubicaciones. | https://www.simplyhired.com |
+| **Remote.co** | Sitio centrado en empleo remoto con miles de anuncios en distintas industrias. | https://remote.co/ | :contentReference[oaicite:2]{index=2}
+| **FlexJobs** | Bolsa de trabajo remoto y flexible con ofertas verificadas y variadas. | https://www.flexjobs.com/ | :contentReference[oaicite:3]{index=3}
+| **We Work Remotely** | Plataforma clásica para encontrar trabajos remotos en tecnología, diseño y más. | https://weworkremotely.com/ | :contentReference[oaicite:4]{index=4}
+| **RemoteOK** | Similar a WWR, con foco en empleos tecnológicos y remotos. | https://remoteok.io/ | :contentReference[oaicite:5]{index=5}
+| **Working Nomads** | Buscador de trabajos para nómadas digitales con newsletter. | https://www.workingnomads.com/ | :contentReference[oaicite:6]{index=6}
+| **Virtual Vocations** | Portal con empleos remotos preseleccionados y filtrados. | https://www.virtualvocations.com |
+| **Upwork** | Plataforma freelance global para proyectos de corto y largo plazo. | https://www.upwork.com/ | :contentReference[oaicite:7]{index=7}
+| **Freelancer** | Comunidad freelance con proyectos en múltiples categorías. | https://www.freelancer.com/ |
+| **Fiverr** | Marketplace para servicios freelance (gigs) de diversa índole. | https://www.fiverr.com/ |
+| **Guru** | Plataforma freelance con enfoque en profesionales técnicos y creativos. | https://www.guru.com/ |
+| **PeoplePerHour** | Sitio freelance con proyectos por hora y fijos. | https://www.peopleperhour.com/ |
+| **Toptal** | Comunidad de talento elite para trabajos remotos de alto nivel. | https://www.toptal.com/ |
+| **Aquent** | Agencia y portal de empleo especializado en trabajos digitales y creativos. | https://www.aquent.com/ |
+| **Remotive** | Bolsa de empleo remoto con ofertas globales y curadas. | https://www.remotive.com/ | :contentReference[oaicite:8]{index=8}
+| **Jobspresso** | Portal con oportunidades remotas seleccionadas manualmente. | https://www.jobspresso.co/ | :contentReference[oaicite:9]{index=9}
+| **SkipTheDrive** | Agregador de empleos remotos con interfaz sencilla. | https://www.skipthedrive.com/ |
+| **Coworker** | Plataforma para encontrar coworking y también trabajos relacionados con espacios remotos. | https://www.coworker.com/ |
+| **Glassdoor Jobs** | Ofertas laborales con reseñas de empresas y salarios. | https://www.glassdoor.com/ | :contentReference[oaicite:10]{index=10}
+| **Soy Freelancer** | Portal enfocado en freelance en español. | https://soyfreelancer.com/ |
+| **TopCoder** | Comunidad de competición y proyectos, con oportunidades para programadores y técnicos. | https://www.topcoder.com/ |
 
 ---
 
