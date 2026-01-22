@@ -31,7 +31,7 @@ Este repositorio apunta a convertirse en un **punto de referencia de QA en espa�
 - [📘 Stages](#-stage-1)
 - [❓ Preguntas de entrevista](#-preguntas-de-entrevista)
 - [🛠️ Herramientas de Testing](#️-herramientas-de-testing)
-- [🤖 Automatización de Pruebas](#-automatización-de-pruebas)
+- [🤖 Automatización de Pruebas](#-frameworks-y-herramientas-de-automatización)
 - [🧠 IA aplicada a QA](#-ia-aplicada-a-qa)
 - [📋 Gestión y Metodologías](#-gestión-y-metodologías)
 - [📊 Performance & Seguridad](#-performance--seguridad)
