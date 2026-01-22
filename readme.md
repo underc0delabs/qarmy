@@ -203,6 +203,38 @@ Testing de APIs
 
 ---
 
+## 📘 Stage 8:
+
+Aprender a escribir casos de pruebas en BDD.
+En este punto ya empezamos a encaminarnos hacia el mundo de la automatización. BDD es una forma de escribir casos de pruebas con el fin de automatizarlos posteriormente.
+
+| Tema | Link |
+|----|----|
+| Gherkin - BDD - TDD | [![youtube] Ver Video](https://www.youtube.com/watch?v=soHu_YsXCXg "QARMY") |
+
+---
+
+## 📘 Stage 9:
+
+Testing Mobile:
+
+- Saber diferenciar entre emulador y simulador
+- Saber levantar simuladores en la PC (XCODE) para iOS
+- Saber usar Browser Stack
+- Otras herramientas para emular sistemas operativos en Android: Genymotion, Bluestacks
+- Saber la diferencia entre una APP Nativa, PWA y responsive
+- Saber testear responsive
+- Saber usar CatLog
+- Saber usar TestFlight y App Distribution (Firebase)
+- Saber realizar Alfa y Beta testing
+
+| Tema | Link |
+|----|----|
+| Como ver la pantalla del movil en la PC | [![youtube] Ver Video](https://www.youtube.com/watch?v=ceu4tWxLBGY "QARMY") |
+| Introducción al testing de aplicaciones móviles | [![youtube] Ver Video](https://www.youtube.com/watch?v=uLPm216uNFg "QARMY") |
+
+---
+
 ## ❓ Preguntas de Entrevista
 
 - ¿Qué es QA y cuál es su rol?
