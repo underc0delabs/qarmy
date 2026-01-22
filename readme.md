@@ -403,16 +403,26 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 - Insomnia
 - Newman
 
----
-
-## 🤖 Automatización de Pruebas
+### 🤖 Automatización de Pruebas
 
 | Herramienta | Lenguaje | Tipo |
 |-----------|---------|------|
-| Selenium | Java / Python | Web |
+| Selenium | Java / Python / C# | Web |
 | Playwright | JavaScript / TypeScript | Web |
-| Cypress | JavaScript | Web |
-| Appium | Multi | Mobile |
+| Cypress | JavaScript / TypeScript | Web |
+| **k0lmena** | TypeScript (Playwright + Cucumber) | Web / API / Mobile / Performance |
+| Appium | Java / Python / JavaScript | Mobile |
+| WebdriverIO | JavaScript / TypeScript | Web |
+| TestCafe | JavaScript / TypeScript | Web |
+| Puppeteer | JavaScript | Web |
+| Robot Framework | Python | Web / API |
+| Karate | Java | API |
+| Rest Assured | Java | API |
+| Postman + Newman | JavaScript | API |
+| SoapUI | Groovy / Java | API |
+| JMeter | Java | Performance |
+| k6 | JavaScript | Performance |
+| Gatling | Scala | Performance |
 
 ---
 
