@@ -1,4 +1,4 @@
-# 🧪 Recursos y Roadmaps para QAs - QARMY / Underc0de (2026)
+# 🧪 Recursos y Roadmaps para QAs (2026)
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Software%20Testing-blue?style=for-the-badge">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Contribuciones-Colaborativo-purple?style=for-the-badge">
 </p>
 
-Repositorio **oficial de QARMY** dedicado a la **capacitación profesional de QAs** en español.  
+Repositorio **oficial de QARMY / Underc0de** dedicado a la **capacitación profesional de QAs** en español.  
 Este espacio reúne contenido propio y de la comunidad: testing manual, automatización de pruebas, IA aplicada a QA, performance, seguridad y desarrollo de carrera.
 
 ⭐ **Si este repositorio te resulta útil, ¡dejá una estrella y compartilo!**
