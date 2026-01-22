@@ -157,6 +157,7 @@ Aprender diferentes tecnicas de tests funcionales:
 | Tema | Link |
 |----|----|
 | Estrategias de prueba: Smoke - Sanity - Regression | [![youtube] Ver Video](https://www.youtube.com/watch?v=wmOFaW7GS4g "QARMY") |
+| Testing Exploratorio | [![youtube] Ver Video](https://www.youtube.com/watch?v=REZKhm_seSk "QARMY") |
 
 ---
 
@@ -172,6 +173,27 @@ Pruebas en base de datos:
 | Tema | Link |
 |----|----|
 | SQL desde cero | [![youtube] Ver Video](https://www.youtube.com/watch?v=eDpDiLNHwAs "QARMY") |
+
+---
+
+## 📘 Stage 7:
+
+Testing de APIs
+
+- Testing de APIs REST y SOAP
+- Postman
+- Swagger
+
+| Tema | Link |
+|----|----|
+| ¿Que son las APIs? - Introducción | [![youtube] Ver Video](https://www.youtube.com/watch?v=PkR75URDdPc "QARMY") |
+| Testing de APIs con Swagger | [![youtube] Ver Video](https://www.youtube.com/watch?v=aoENzj1azr0 "QARMY") |
+| Testing de APIs con Postman | [![youtube] Ver Video](https://www.youtube.com/watch?v=k_2ynv_-Tms "QARMY") |
+| Como utilizar las variables de entorno en Postman | [![youtube] Ver Video](https://www.youtube.com/watch?v=zPXp0ot7pIA "QARMY") |
+| Automatización de pruebas con Postman | [![youtube] Ver Video](https://www.youtube.com/watch?v=x1EZRas7KnI "QARMY") |
+| Automatización de pruebas con Postman y Newman | [![youtube] Ver Video](https://www.youtube.com/watch?v=F5tfL5ud4CE "QARMY") |
+| Testing de APIs con Insomnia (Alternativa a Postman) | [![youtube] Ver Video](https://www.youtube.com/watch?v=GBDD2oyYZbQ "QARMY") |
+| Certificación de Postman con certificación | [![youtube] Ver Video](https://www.youtube.com/watch?v=f8i3LPbZ2Sk "QARMY") |
 
 ---
 
