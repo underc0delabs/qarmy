@@ -186,6 +186,12 @@ Testing de APIs
 
 | Tema | Link |
 |----|----|
+| Testing de APIs con Swagger | [🔗 Ver Artículo](https://underc0de.org/foro/qa-testing/testeo-de-apis-con-swagger/ "Foro Underc0de") |
+| Testing de APIs con Postman | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/testeo-de-apis-con-postman/ "Foro Underc0de") |
+| Variables de Entorno y Variables Globales en Postman | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/variables-de-entorno-y-variables-globales-en-postman/ "Foro Underc0de") |
+| Pruebas Automatizadas con Postman | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/pruebas-automatizadas-con-postman/ "Foro Underc0de") |
+| Ejecución de pruebas automatizadas con Newman y generación de reporte | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/corriendo-colecciones-de-apis-con-newman-y-reporte-en-html/ "Foro Underc0de") |
+| Importar los endpoints de una API de Swagger a Postman | [🔗 Ver Artículo](https://underc0de.org/foro/qa-(quality-assurance)/obtener-todos-los-endopints-de-una-api-en-un-paso-mas-simple-con-postman/ "Foro Underc0de") |
 | ¿Que son las APIs? - Introducción | [![youtube] Ver Video](https://www.youtube.com/watch?v=PkR75URDdPc "QARMY") |
 | Testing de APIs con Swagger | [![youtube] Ver Video](https://www.youtube.com/watch?v=aoENzj1azr0 "QARMY") |
 | Testing de APIs con Postman | [![youtube] Ver Video](https://www.youtube.com/watch?v=k_2ynv_-Tms "QARMY") |
