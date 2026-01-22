@@ -426,30 +426,6 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 ---
 
-## 📋 Gestión y Metodologías
-
-- Agile / Scrum
-- Kanban
-- Shift Left / Shift Right
-- Risk Based Testing
-- QA Strategy
-
----
-
-## 📊 Performance & Seguridad
-
-### ⚡ Performance
-- JMeter
-- k6
-- Gatling
-
-### 🔐 Seguridad
-- OWASP Top 10
-- OWASP ZAP
-- Burp Suite
-
----
-
 ## 🎓 Cursos y Certificaciones
 
 | Certificación | Nivel |
@@ -526,15 +502,6 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 ---
 
-## 📺 Videos Útiles de YouTube
-
-| Video | Canal | Tema | Idioma |
-|-----|------|------|--------|
-| Introducción a QA | QA Channel | Fundamentos | 🇪🇸 |
-| Automatización con Playwright | QA Pro | Automation | 🇪🇸 |
-
----
-
 ## 👥 Colaboradores
 
 | Nombre | LinkedIn |
@@ -548,12 +515,12 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 
 Si querés aportar a este repositorio:
 
-📩 Enviá un mail con tu aporte indicando:
+📩 Enviá un mail a info[@]dvezzoni.com con tu aporte indicando:
 - Recurso
 - Categoría
 - Breve descripción
 
-La curación es realizada por el equipo de **QARMY**.
+Y nosotros nos encargaremos de cargarlo al repositorio
 
 ---
 
