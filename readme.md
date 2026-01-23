@@ -910,8 +910,22 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 | TryHackMe | Security Labs | Junior → Avanzado | https://tryhackme.com |
 | Damn Vulnerable GraphQL App | API Security | Intermedio | https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application |
 | VAmPI | API Security | Intermedio | https://github.com/erev0s/VAmPI |
+| PortSwigger Web Security Academy | Web Security | Junior → Avanzado | https://portswigger.net/web-security |
+| OWASP Juice Shop | Web Security | Intermedio | https://owasp.org/www-project-juice-shop/ |
 
 > ⚠️ Nota: todos estos recursos son **demos públicas activas**. Aun así, su estado puede variar por mantenimiento del proveedor.
+
+#### 📖 Estándares y Frameworks de Seguridad
+
+| Recurso | Descripción | Link |
+|---------|-------------|------|
+| OWASP Top 10 | Top 10 vulnerabilidades web más críticas | https://owasp.org/www-project-top-ten/ |
+| OWASP Testing Guide | Guía completa de testing de seguridad | https://owasp.org/www-project-web-security-testing-guide/ |
+| OWASP API Security Top 10 | Top 10 riesgos de seguridad en APIs | https://owasp.org/www-project-api-security/ |
+| CWE (Common Weakness Enumeration) | Lista de debilidades de software | https://cwe.mitre.org/ |
+| CVE (Common Vulnerabilities and Exposures) | Base de datos de vulnerabilidades | https://cve.mitre.org/ |
+| NIST Cybersecurity Framework | Framework de seguridad cibernética | https://www.nist.gov/cyberframework |
+| SANS Top 25 | Top 25 errores de programación más peligrosos | https://www.sans.org/top25-software-errors/ |
 
 ---
 
@@ -958,6 +972,7 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 | Nombre | LinkedIn |
 |------|----------|
 | Danilo Vezzoni (Dinno) | [![linkedin]](https://www.linkedin.com/in/dvezzoni/) |
+| Ariel Gastón Quintana | [![linkedin]](https://www.linkedin.com/in/arielquintana/) |
 
 ---
 
