@@ -455,6 +455,7 @@ Head QA: Es la persona que coordina toda el área de QA. Suele verse en empresas
 | [Notion](https://www.notion.so/) | Documentación + wikis + gestión simple |
 | [Google Docs](https://www.google.com/docs/about/) | Documentación colaborativa (estándar) |
 | [Miro](https://miro.com/) | Mapas, flujos, mindmaps, workshops (ideal para QA discovery) |
+| [Scribe](https://scribe.com/) | Captura de pantallas |
 
 ---
 
